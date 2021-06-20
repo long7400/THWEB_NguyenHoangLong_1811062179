@@ -1,0 +1,35 @@
+.nav {
+    min-height: 42px;
+    background-color: #EEEEEE;
+    display: flex;
+    margin-top: 5px;
+}
+
+.nav-list {
+    padding-left: 0;
+    margin: auto 16px;
+    
+}
+
+.nav-item {
+    color: #fff;
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.nav-item:hover{
+    color: #9F224E;
+}
+
+.img_footer{
+    margin-top: 15px;
+    display: flex;
+}
+
+.footer_pic{
+    display: inline-block;
+}
